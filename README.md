@@ -7,7 +7,7 @@
 2. Do the following
     ```cd ogl```
     ```git clone https://github.com/Sanj24Dev/chess-3dGraphics.git```
-3. The folder heirarchy looks like this:
+3. The folder heirarchy looks like this:<br>
     ogl<br>
     |-build<br>
     |-common (one provided in chess-3dGraphics repository)<br>
