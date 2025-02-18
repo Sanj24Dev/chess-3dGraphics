@@ -9,11 +9,11 @@
     ```git clone https://github.com/Sanj24Dev/chess-3dGraphics.git```
 3. The folder heirarchy looks like this:
     ogl<br>
-    |-build
-    |-common (one provided in chess-3dGraphics repository)
-    |-external
-    |-Lab3
-    |-CMakeLists.txt (one provided in chess-3dGraphics repository)
+    |-build<br>
+    |-common (one provided in chess-3dGraphics repository)<br>
+    |-external<br>
+    |-Lab3<br>
+    |-CMakeLists.txt (one provided in chess-3dGraphics repository)<br>
 4. Clear the build folder
 5. Generate the executable using CMake
 6. Run ./launch-Lab3.sh from the build folder
