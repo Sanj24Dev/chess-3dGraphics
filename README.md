@@ -34,4 +34,4 @@
 
 ## Tutorial
 
-![](videos/Commands-and-moves-demo.mp4)
+![](https://github.com/Sanj24Dev/chess-3dGraphics/blob/main/videos/Commands-and-moves-demo.mp4)
