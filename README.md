@@ -31,3 +31,7 @@
 - ASSIMP: For importing and loading 3D models of chess pieces.
 - Chess Engine (e.g., Komodo): For game logic and move processing via UCI format.
 - GLFW: For window creation and handling input.
+
+## Tutorial
+
+![](videos/Commands and moves demo.mp4)
