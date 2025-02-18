@@ -14,6 +14,7 @@
     |-external<br>
     |-Lab3<br>
     |-CMakeLists.txt (one provided in chess-3dGraphics repository)<br>
+    Any other folders from ogl can be deleted
 4. Clear the build folder
 5. Generate the executable using CMake
 6. Run ./launch-Lab3.sh from the build folder
