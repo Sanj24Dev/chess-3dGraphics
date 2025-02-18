@@ -34,4 +34,4 @@
 
 ## Tutorial
 
-![](videos/Commands and moves demo.mp4)
+![](videos/Commands-and-moves-demo.mp4)
